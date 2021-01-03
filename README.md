@@ -1,2 +1,3 @@
 # LoaderMod
-Modificación para integrar Cargador Basic en MPAGD
+
+Modificación para integrar Cargador Basic en MPAGD.
